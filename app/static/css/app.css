@@ -1,3 +1,40 @@
 body {
     padding-top: 5rem;
 }
+
+
+.container-fluid {
+    background-color: black;
+    color: white;
+}
+
+hr {
+    width: 80%;
+}
+
+input {
+   width: 40%; 
+}
+
+textarea {
+    width: 45%;
+    height: auto;
+}
+
+button {
+    background-color: #4169e1;
+    color: white;
+    border-radius: 5%;
+    width: 80px;
+}
+
+label {
+    font-weight: bold;
+}
+
+#flashMsg {
+    color: green;
+    font-weight: bold;
+    font-size: large;
+
+}
